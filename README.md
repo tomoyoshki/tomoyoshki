@@ -13,20 +13,24 @@
 
 <h2>📫 Reach me @</h2>
 <hr>
-<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: space-evenly; ">
-    <a href="mailto:tomoyoshki@gmail.com" style="width: 15%; display: flex; justify-content: center">
-        <img src="./icons/email.png" width="80%"/>
+<div align="center">
+    <a href="mailto:tomoyoshki@gmail.com">
+        <img src="./icons/email.png" width="10%"/>
     </a>
-    <a href="https:://www.linkedin.com" style="width: 15%; display: flex; justify-content: center">
-        <img src="./icons/github.png" width="80%"/>
+    <img width="3%" />
+    <a href="https:://www.linkedin.com">
+        <img src="./icons/github.png" width="10%"/>
     </a>
-    <a href="https:://www.linkedin.com" style="width: 15%; display: flex; justify-content: center">
-        <img src="./icons/instagram.png" width="80%"/>
+    <img width="3%" />
+    <a href="https:://www.linkedin.com">
+        <img src="./icons/instagram.png" width="10%"/>
     </a>
-    <a href="https://www.linkedin.com/in/tomoyoshi-kimura/" style="width: 15%; display: flex; justify-content: center">
-        <img src="./icons/linkedin.png" width="80%"/>
+    <img width="3%" />
+    <a href="https://www.linkedin.com/in/tomoyoshi-kimura/">
+        <img src="./icons/linkedin.png" width="10%"/>
     </a>
-    <a href="http://tomoyoshikimura.com" style="width: 15%; display: flex; justify-content: center">
-        <img src="./icons/tk.png" width="80%"/>
+    <img width="3%" />
+    <a href="http://tomoyoshikimura.com">
+        <img src="./icons/tk.png" width="10%"/>
     </a>
 </div>
