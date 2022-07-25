@@ -14,23 +14,23 @@
 <h2>📫 Reach me @</h2>
 <hr>
 <div align="center">
-    <a href="mailto:tomoyoshki@gmail.com">
+    <a href="mailto:tomoyoshki@gmail.com" target="_blank">
         <img src="./icons/email.png" width="10%"/>
     </a>
-    <img width="3%" />
-    <a href="https:://www.linkedin.com">
+    <img width="7%" />
+    <a href="https://github.com/tomoyoshki" target="_blank">
         <img src="./icons/github.png" width="10%"/>
     </a>
-    <img width="3%" />
-    <a href="https:://www.linkedin.com">
+    <img width="7%" />
+    <a href="https://www.instagram.com/tommy_kimura" target="_blank">
         <img src="./icons/instagram.png" width="10%"/>
     </a>
-    <img width="3%" />
-    <a href="https://www.linkedin.com/in/tomoyoshi-kimura/">
+    <img width="7%" />
+    <a href="https://www.linkedin.com/in/tomoyoshi-kimura/" target="_blank">
         <img src="./icons/linkedin.png" width="10%"/>
     </a>
-    <img width="3%" />
-    <a href="http://tomoyoshikimura.com">
+    <img width="7%" />
+    <a href="http://tomoyoshikimura.com" target="_blank">
         <img src="./icons/tk.png" width="10%"/>
     </a>
 </div>
