@@ -1,16 +1,6 @@
 <h1 align="center"> Hello there, I'm Tomoyoshi Kimura👋 </h1>
 <h3 align="center" style="font-style: italic"> Engineer, Computer Scientist, Educator, and Innovator @ UIUC 23'</h3>
 
-<h2> ⭐️ Ongoing</h2>
-
-```
-- 🔭 I’m currently working on building Classpedia application
-- 🌱 I’m currently focusing on application of Intelligence across interdiscplinary areas
-- 📖 I'm currently learning new languages, techniques, systems, and art
-- 😄 Pronouns: He/Him/His
-```
-
-
 <h2>📫 Reach me @</h2>
 <hr>
 <div align="center">
