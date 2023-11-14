@@ -1,5 +1,5 @@
 <h1 align="center"> Hello there, I'm Tomoyoshi Kimura👋 </h1>
-<h3 align="center" style="font-style: italic"> Engineer, Computer Scientist, Educator, and Innovator @ UIUC 23'</h3>
+<h3 align="center" style="font-style: italic"> CS grad @ UIUC</h3>
 <h2>📫 Reach me @</h2>
 <hr>
 <div align="center">
