@@ -21,7 +21,7 @@ Ph.D. Student in Computer Science | University of Illinois at Urbana-Champaign
 - **Intelligent Sensing Systems** with advanced reasoning capabilities
 - **Human-Centric Applications** for robust IoT sensing
 
-## Selected Publications
+## Selected Projects
 
 1. **InfoMAE: Pair-Efficient Cross-Modal Alignment for Multimodal Time-Series Sensing Signals**  
    *ACM The Web Conference (WWW) 2025*
