@@ -8,9 +8,9 @@ Ph.D. Student in Computer Science | University of Illinois at Urbana-Champaign
 
 <div align="left">
   <p>
-    <a href="mailto:tkimura4@illinois.edu">tkimura4@illinois.edu</a> •
-    <a href="https://www.tomoyoshikimura.com">tomoyoshikimura.com</a> •
-    <a href="https://scholar.google.com/citations">Google Scholar</a>
+    <a href="mailto:tkimura4@illinois.edu" target="_blank">tkimura4@illinois.edu</a> •
+    <a href="https://www.tomoyoshikimura.com" target="_blank">tomoyoshikimura.com</a> •
+    <a href="https://scholar.google.com/citations?hl=en&user=8uuJfmoAAAAJ" target="_blank">Google Scholar</a>
   </p>
 </div>
 
